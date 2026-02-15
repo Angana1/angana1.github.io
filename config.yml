@@ -66,8 +66,6 @@ params:
               url: https://www.linkedin.com/in/anganmon/
             - name: Projects List
               url: https://github.com/Angana1/project_portfolio/blob/main/README.md/
-            - name: Email
-              url: mailto:angana.mondal@epfl.ch
 
     
     assets:
